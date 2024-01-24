@@ -8,10 +8,11 @@
 <h3 align="center">💻 Once I've Used</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=Java&logoColor=007396">
-<img src="https://img.shields.io/badge/jquery-FFFFFF?style=for-the-badge&logo=jquery&logoColor=0769AD">
-<img src="https://img.shields.io/badge/Ajax-FFFFFF?style=for-the-badge&logo=Ajax&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/JSP-FFFFFF?style=for-the-badge&logo=JSP&logoColor=007396">
 <img src="https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=Spring&logoColor=6DB33F"><br>
 <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/jquery-FFFFFF?style=for-the-badge&logo=jquery&logoColor=0769AD">
+<img src="https://img.shields.io/badge/Ajax-FFFFFF?style=for-the-badge&logo=Ajax&logoColor=F7DF1E"><br>
 <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=CSS3&logoColor=1572B6"> <br>
 <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=4479A1">
